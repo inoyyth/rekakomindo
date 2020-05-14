@@ -5,7 +5,7 @@
 Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- bootstrap-css -->
-<link href="{{ URL::asset('themes/css/bootstrap.css?' . date('Ymdhis')) }}" rel="stylesheet" type="text/css" media="all" />
+<link href="{{ URL::asset('/themes/css/bootstrap.css?' . date('Ymdhis')) }}" rel="stylesheet" type="text/css" media="all" />
 <!--// bootstrap-css -->
 <!-- css -->
 <link rel="stylesheet" href="{{ URL::asset('themes/css/style.css?' . date('Ymdhis')) }}" type="text/css" media="all" />

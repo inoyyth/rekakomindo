@@ -1,5 +1,5 @@
-<div class="banner jarallax">
-    <div class="agileinfo-dot">
+<div class="banner-1 jarallax">
+    <div class="agileinfo-dot-1">
         <div class="w3ls-banner-info-bottom">
             <div class="container">
                 <div class="banner-address">
@@ -33,8 +33,8 @@
                 <nav class="cl-effect-13" id="cl-effect-13">
                     <ul class="nav navbar-nav">
                         <li><a href="{{route('home')}}">Home</a></li>
+                        <li><a href="{{route('about')}}">About Us</a></li>
                         <li><a href="{{route('service')}}">Services</a></li>
-                        <li><a href="{{route('project')}}">Projects</a></li>
                         <li><a href="{{route('contact')}}">Contact</a></li>
                     </ul>
                     <div class="w3_agile_login">
@@ -63,7 +63,7 @@
                         <ul class="slides">
                             <li>
                                 <div class="agileits_w3layouts_banner_info">
-                                    <h3>Electrical & Mechanical Services </h3>
+                                    <h3>Electrical & Mechanical</h3>
                                     <p>We always calculate every single risk possibility that could lead to system
                                     failure very careful and thorough. These result, give our clients a strong and secure
                                     mechanical electrical system.</p>

@@ -21,9 +21,9 @@ class HomeController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function project()
+    public function about()
     {
-        return view('pages.home.project');
+        return view('pages.home.about');
     }
 
      /**

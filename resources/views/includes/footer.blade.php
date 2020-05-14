@@ -1,7 +1,7 @@
 <div class="footer">
     <div class="container">
     <h2 class="wthree_head">Subscribe to Newsletter</h2>
-            <p class="agileits_w3layouts_para w3_agile_para">Etiam malesuada odio vitae enim malesuada accumsan diam sed.</p>
+            <p class="agileits_w3layouts_para w3_agile_para">Get new info from us.</p>
 
             <div class="news-w3l">
                 <form action="#" method="post">

@@ -2,16 +2,16 @@
 @section('content')
 <!-- mail -->
 <div class="agileits_w3layouts_mail_grids">
-    <div class="col-md-7 w3l_mail_left">
+    <div class="col-md-6 w3l_mail_left">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d701.1058038752069!2d106.97125415455571!3d-6.256703150608522!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e698db27a0afa9f%3A0xec19e1dddbf5daf0!2sAlfamidi%20Nusa%20Indah!5e0!3m2!1sid!2sid!4v1589347478381!5m2!1sid!2sid" width="750" height="420" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
     </div>
-    <div class="col-md-5 w3l_mail_right">
+    <div class="col-md-6 w3l_mail_right">
         <h3>Contact Info</h3>
         <ul>
-            <li><span><i class="fa fa-home" aria-hidden="true"></i>Address<label>:</label></span> 1234k Avenue, New York City.</li>
-            <li><span><i class="fa fa-phone" aria-hidden="true"></i>Phone<label>:</label></span> (+012) 345 6432</li>
-            <li><span><i class="fa fa-fax" aria-hidden="true"></i>Fax<label>:</label></span> +82-21-1218</li>
-            <li><span><i class="fa fa-envelope" aria-hidden="true"></i>Email<label>:</label></span> <a href="mailto:info@example.com">info@example.com</a></li>
+            <li><span><i class="fa fa-home" aria-hidden="true"></i>Address<label>:</label></span> Grand Galaxy Jl Nusa Indah Raya </li>
+            <li><span><label></label></span>&nbsp;Blok W No 1, Bekasi Selatan</li>
+            <li><span><i class="fa fa-phone" aria-hidden="true"></i>Phone<label>:</label></span> 021 827 35 929</li>
+            <li><span><i class="fa fa-envelope" aria-hidden="true"></i>Email<label>:</label></span> <a href="mailto:info@example.com">customercare.rekakomindo@gmail.com</a></li>
 
         </ul>
     </div>
@@ -21,7 +21,6 @@
 <div class="banner-bottom">
     <div class="container">
         <h3 class="wthree_head">get in touch with us</h3>
-            <p class="agileits_w3layouts_para w3_agile_para">Etiam malesuada odio vitae enim malesuada accumsan diam sed.</p>
         <div class="agileinfo_mail_grids">
             <form action="#" method="post">
                 <span class="input input--chisato">
