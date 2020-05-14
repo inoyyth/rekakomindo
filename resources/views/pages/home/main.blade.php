@@ -15,18 +15,6 @@
                 <div class="w3_featured_services_left_grid">
                     <div class="col-xs-4 w3_featured_services_left_gridl">
                         <div class="hi-icon-wrap hi-icon-effect-9 hi-icon-effect-9a">
-                            <i class="hi-icon fa-bolt"> </i>
-                        </div>
-                    </div>
-                    <div class="col-xs-8 w3_featured_services_left_gridr">
-                        <h4>Mechanical Plumbing</h4>
-                    </div>
-                    <div class="clearfix"> </div>
-                </div>
-
-                <div class="w3_featured_services_left_grid">
-                    <div class="col-xs-4 w3_featured_services_left_gridl">
-                        <div class="hi-icon-wrap hi-icon-effect-9 hi-icon-effect-9a">
                             <i class="hi-icon fa-plug"> </i>
                         </div>
                     </div>
