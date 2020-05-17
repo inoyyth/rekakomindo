@@ -5,14 +5,27 @@
     <div class="container">
         <div class="agileits_heading_section">
             <h3 class="wthree_head">About Us</h3>
-            <p class="agileits_w3layouts_para w3_agile_para">
-                Established in Jakarta at 2006 named Rekakomindo. We developed not only at Jakarta,
-                but also in Surabaya, Riau and Denpasar. Today we are not just a contractor, but we can also be your consultant, and designer for
-                your mechanical and electrical needs. With experiences of more than 15 years, we believe that we can give you the best service
-                and quality. Our philosophy since Alkonusa’s establishment has been based on the idea that we should serve our clients,
-                and work for the best with a great way for the excellence result.
+            <p class="agileits_w3layouts_para w3_agile_para" style="text-align:justify!important;">
+                Established in 1997 PT Aneka Rekakomindo Kencana also known as REKAKOMINDO,
+                is a company engaged in the mechanical electrical which focusing in the field
+                 of materials and  electrical system, such as panels, Public Addresses,
+                 Fire Alarms, Telephone, UPS, MATV, CCTV, Multi Media. For information,
+                 our company has experience handling various development projects in various cities in Indonesia,
+                 <br>
+                 REKAKOMINDO is a company that is developing and taking an active role in development.
+                 Many experiences and learning processes that have been passed from year to year that
+                 bring the company continues to grow and develop in accordance with the company's strategic plan.
+                 <br>
+                 The trust given from various parties (government, private, and individuals) has created a variety
+                 of large construction works that are spread across various sectors of building and civil construction
+                 (office buildings, factories, warehouses, warehouses, roads, housing, hospitals, schools and universities ,
+                 government agencies and others).
+                 <br>
+                 As a form of a series of learning processes and company experience through technology management
+                 and effective and efficient construction methods, we are ready to provide the best construction
+                 services in creating more tangible construction works.
             </p>
-            <p style="text-align:center;">
+            <!-- <p style="text-align:center;">
                 <b>Our Mission</b>
                 <br>
                 With Passion and Knowledge of Engineering expertise
@@ -33,7 +46,7 @@
                 and needs of customers satisfaction<br>
                 by upholding the value of excellence and strong<br>
                 cooperation to achieve highest result.
-            </p>
+            </p> -->
             Best Regards,
             </p>
             <p>
@@ -41,7 +54,7 @@
             </p>
         </div>
     </div>
-    <div class="container">
+    <!-- <div class="container">
         <div class="w3ls_banner_bottom_grids">
             <div class="col-md-3 agile_team_grid">
 
@@ -65,7 +78,7 @@
             </div>
             <div class="clearfix"> </div>
         </div>
-    </div>
+    </div> -->
 </div>
 <!-- //gallery -->
 @endsection()

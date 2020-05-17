@@ -31,9 +31,9 @@ class HomeController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function service()
+    public function specialist()
     {
-        return view('pages.home.service');
+        return view('pages.home.specialist');
     }
 
     /**
@@ -44,6 +44,16 @@ class HomeController extends Controller
     public function contact()
     {
         return view('pages.home.contact');
+    }
+
+         /**
+     * Display a listing of the resource.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function project()
+    {
+        return view('pages.home.project');
     }
 
 }

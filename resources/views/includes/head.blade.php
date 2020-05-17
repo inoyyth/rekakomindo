@@ -1,4 +1,13 @@
-<div class="banner-1 jarallax">
+@if (Route::currentRouteName() === 'specialist')
+    @php
+        $banner = "banner-2";
+    @endphp
+@else
+    @php
+        $banner = "banner-1";
+    @endphp
+@endif
+<div class="{{ $banner }} jarallax">
     <div class="agileinfo-dot-1">
         <div class="w3ls-banner-info-bottom">
             <div class="container">
@@ -34,7 +43,8 @@
                     <ul class="nav navbar-nav">
                         <li><a href="{{route('home')}}">Home</a></li>
                         <li><a href="{{route('about')}}">About Us</a></li>
-                        <li><a href="{{route('service')}}">Services</a></li>
+                        <li><a href="{{route('specialist')}}">Specialist</a></li>
+                        <li><a href="{{route('project')}}">Projects</a></li>
                         <li><a href="{{route('contact')}}">Contact</a></li>
                     </ul>
                     <div class="w3_agile_login">

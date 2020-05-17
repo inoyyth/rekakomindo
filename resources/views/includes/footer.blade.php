@@ -4,7 +4,7 @@
             <p class="agileits_w3layouts_para w3_agile_para">Get new info from us.</p>
 
             <div class="news-w3l">
-                <form action="#" method="post">
+                <form action="/" method="get">
                     <input type="email" name="Email" placeholder="Enter Your Email..." required="">
                     <input type="submit" value="Send">
                 </form>
@@ -22,7 +22,7 @@
                 </div>
                 <div class="col-md-4 w3agile_footer_grid"></div>
                 <div class="col-md-4 w3agile_footer_grid">
-                    <h3>About Us</h3>
+                    <h3>Why Us</h3>
                     <p>We always calculate every single risk possibility that could lead to system
                         failure very careful and thorough. These result, give our clients a strong and secure
                         mechanical electrical system.</p>
@@ -35,7 +35,10 @@
     </div>
 
 </div>
-
+<script src="{{ URL::asset('themes/js/simpleLightbox.js') }}"></script>
+<script>
+    $('.w3_agile_gallery_grid a').simpleLightbox();
+</script>
 <script src="{{ URL::asset('themes/js/jarallax.js') }}"></script>
 <script src="{{ URL::asset('themes/js/SmoothScroll.min.js') }}"></script>
 <script type="text/javascript">
@@ -47,11 +50,6 @@
     })
 </script>
 <!-- //jarallax -->
-<script src="{{ URL::asset('themes/js/bootstrap.js') }}"></script>
-<script src="{{ URL::asset('themes/js/simpleLightbox.js') }}"></script>
-<script>
-    $('.w3_agile_gallery_grid a').simpleLightbox();
-</script>
  <!-- flexSlider -->
 <script defer src="{{ URL::asset('themes/js/jquery.flexslider.js') }}"></script>
 <script type="text/javascript">
@@ -65,4 +63,5 @@
     });
 </script>
 <!-- //flexSlider -->
+<script src="{{ URL::asset('themes/js/bootstrap.js') }}"></script>
 @stack('scripts')

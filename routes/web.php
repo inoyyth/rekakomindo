@@ -16,6 +16,7 @@
 // });
 
 Route::get('/', 'HomeController@index')->name('home');
-Route::get('/services', 'HomeController@service')->name('service');
+Route::get('/specialist', 'HomeController@specialist')->name('specialist');
 Route::get('/about-us', 'HomeController@about')->name('about');
+Route::get('/project', 'HomeController@project')->name('project');
 Route::get('/contact', 'HomeController@contact')->name('contact');
