@@ -13,7 +13,7 @@
             <div class="container">
                 <div class="banner-address">
                     <div class="banner-address-left">
-                        <p><i class="fa fa-map-marker" aria-hidden="true"></i> 17417 Jakasetia, Bekasi Selatan.</p>
+                        <p><i class="fa fa-map-marker" aria-hidden="true"></i> 17147 Jakasetia, Bekasi Selatan.</p>
                     </div>
 
                     <div class="banner-address-left right">

@@ -15,7 +15,7 @@
                 <div class="col-md-4 w3agile_footer_grid">
                     <h3>Contact Info</h3>
                     <ul>
-                        <li><i class="glyphicon glyphicon-map-marker" aria-hidden="true"></i>Grand Galaxy Jl Nusa Indah Raya Blok W No 1, <span>Bekasi Selatan 17417.</span></li>
+                        <li><i class="glyphicon glyphicon-map-marker" aria-hidden="true"></i>Grand Galaxy Jl Nusa Indah Raya Blok W No 1, <span>Bekasi Selatan 17147.</span></li>
                         <li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i><a href="mailto:info@example.com">customercare.rekakomindo@gmail.com</a></li>
                         <li><i class="glyphicon glyphicon-earphone" aria-hidden="true"></i>021 827 35 929</li>
                     </ul>
