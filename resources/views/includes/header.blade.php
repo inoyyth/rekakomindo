@@ -1,8 +1,8 @@
 <title>Rekakomindo.com | Official Website</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta charset="utf-8">
-<meta name="keywords" content="Electrician Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+<meta name="keywords" content="rekakomindo electrical and mechanical constructor project specialist" />
+<meta name="description" content="rekakomindo electrical and mechanical constructor project specialist for building development"/>
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- bootstrap-css -->
 <link href="{{ URL::asset('/themes/css/bootstrap.css?' . date('Ymdhis')) }}" rel="stylesheet" type="text/css" media="all" />
