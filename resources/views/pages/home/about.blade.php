@@ -54,31 +54,24 @@
             </p>
         </div>
     </div>
-    <!-- <div class="container">
+    <div class="container">
         <div class="w3ls_banner_bottom_grids">
-            <div class="col-md-3 agile_team_grid">
+            <div class="col-md-4 agile_team_grid">
 
             </div>
-            <div class="col-md-3 agile_team_grid">
+            <div class="col-md-4 agile_team_grid">
                 <div class="agileits_w3layouts_team_grid">
-                    <img src="{{ URL::asset('themes/images/amon1.jpeg') }}" style="width:400px;height:300px;" alt=" " class="img-responsive">
+                    <img src="{{ URL::asset('themes/images/amon1.jpg') }}" style="width:400px;height:300px;" alt=" " class="img-responsive">
                 </div>
-                <h4>Taufik Pambudi</h4>
-                <p>Director</p>
+                <!-- <h4>Taufik Pambudi</h4>
+                <p>Director</p> -->
             </div>
-            <div class="col-md-3 agile_team_grid">
-                <div class="agileits_w3layouts_team_grid">
-                    <img src="{{ URL::asset('themes/images/t3.jpg') }}" style="width:400px;height:300px;" alt=" " class="img-responsive">
-                </div>
-                <h4>David Gideon</h4>
-                <p>Manager</p>
-            </div>
-            <div class="col-md-3 agile_team_grid">
+            <div class="col-md-4 agile_team_grid">
 
             </div>
             <div class="clearfix"> </div>
         </div>
-    </div> -->
+    </div>
 </div>
 <!-- //gallery -->
 @endsection()
