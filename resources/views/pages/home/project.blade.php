@@ -105,6 +105,50 @@
                     </a>
                 </div>
             </div>
+            <div class="col-md-4 w3_agile_gallery_grid">
+                <div class="agile_gallery_grid">
+                    <a title="Waskita Politeknik Negeri Malang" href="{{ URL::asset('themes/images/project/project10.jpg') }}">
+                        <div class="agile_gallery_grid1">
+                            <img src="{{ URL::asset('themes/images/project/project10.jpg') }}" alt=" " class="img-responsive" style="width:350px;height:232px;" />
+                            <div class="w3layouts_gallery_grid1_pos">
+                                <h3>Waskita Politeknik Negeri Malang</h3>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <!-- <div class="agile_gallery_grid">
+                    <a title="Ruang Perawatan Gedung Anggrek RSUP Fatmawati lt. 4 dan 5" href="{{ URL::asset('themes/images/project/project11.jpg') }}">
+                        <div class="agile_gallery_grid1">
+                            <img src="{{ URL::asset('themes/images/project/project11.jpg') }}" alt=" " class="img-responsive" />
+                            <div class="w3layouts_gallery_grid1_pos">
+                                <h3>Ruang Perawatan Gedung Anggrek RSUP Fatmawati lt. 4 dan 5</h3>
+                            </div>
+                        </div>
+                    </a>
+                </div> -->
+                <!-- <div class="agile_gallery_grid">
+                    <a title="Revitalisasi Masjid Istiqlal Jakarta" href="{{ URL::asset('themes/images/project/project9.jpg') }}">
+                        <div class="agile_gallery_grid1">
+                            <img src="{{ URL::asset('themes/images/project/project9.jpg') }}" alt=" " class="img-responsive" />
+                            <div class="w3layouts_gallery_grid1_pos">
+                                <h3>Revitalisasi Masjid Istiqlal Jakarta</h3>
+                            </div>
+                        </div>
+                    </a>
+                </div> -->
+            </div>
+            <div class="col-md-4 w3_agile_gallery_grid">
+                <div class="agile_gallery_grid">
+                    <a title="Ruang Perawatan Gedung Anggrek RSUP Fatmawati lt. 4 dan 5" href="{{ URL::asset('themes/images/project/project11.jpg') }}">
+                        <div class="agile_gallery_grid1">
+                            <img src="{{ URL::asset('themes/images/project/project11.jpg') }}" alt=" " class="img-responsive" />
+                            <div class="w3layouts_gallery_grid1_pos">
+                                <h3>Ruang Perawatan Gedung Anggrek RSUP Fatmawati lt. 4 dan 5</h3>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
             <div class="clearfix"></div>
         </div>
     </div>
